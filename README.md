@@ -26,7 +26,7 @@ Recent advances in diffusion models have demonstrated exceptional performance in
 <p align="center">
   <img src="images/3.png" alt=" The overall structure of RED. During the reverse process," width="800">
   <br>
-  <em>Figure 3: The overall structure of RED. During the reverse process, CEM first estimates the residual to calculate 𝑥ො୲ିଵ , then corrects it to prevent excessive drift. Both REN and DCN use the same network architecture.</em>
+  <em>Figure 3: The overall structure of RED. During the reverse process, CEM first estimates the residual to calculate , then corrects it to prevent excessive drift. Both REN and DCN use the same network architecture.</em>
 </p>
 
 
