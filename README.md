@@ -20,7 +20,7 @@ Recent advances in diffusion models have demonstrated exceptional performance in
 <p align="center">
   <img src="images/2.png" alt=" Illustration of data drift in the reverse process." width="800">
   <br>
-  <em>Figure 2:  Illustration of data drift in the reverse process. Drift 𝛾௧ accumulates due to the imperfect prediction of residual, leading the final reconstruction result to deviate from expectations.</em>
+  <em>Figure 2:  Illustration of data drift in the reverse process. Drift  accumulates due to the imperfect prediction of residual, leading the final reconstruction result to deviate from expectations.</em>
 </p>
 
 <p align="center">
